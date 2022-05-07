@@ -1,0 +1,14 @@
+{
+    "ip": "wutop.aternos.me",
+    "port": 37719,
+    "name": "BOT",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "ya bot",
+    "custom-message-2": "ya bot",
+    "login-enabled": "true",
+    "register-cmd": "/register 12341234 12341234",
+    "login-cmd": "/login 12341234"
+}
